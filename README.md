@@ -50,7 +50,7 @@ Output variable :
 
 ## Application Link
 
-Use the [link]() to run the web application on Browser.
+Use the [link](https://winequality-red-predictor.herokuapp.com/winequality/) to run the web application on Browser.
 
 ## Methodology
 ### Dataset
@@ -112,11 +112,11 @@ Flowchart of application process :-
 
 ### Screenshots
 
-![plot]()
+![plot](./ss1.PNG)
 
-![plot]()
+![plot](./ss2.PNG)
 
-![plot]()
+![plot](./ss3.PNG)
 
-![plot]()
+![plot](./ss4.PNG)
 
